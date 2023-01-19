@@ -11,12 +11,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -27,17 +23,18 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
+### Screenshot Desktop Preview
 
 ![Desktop preview for the Product preview card component coding challenge](<./screenshot/desktop-design%20(1440x800).png>)
+
+### Screenshot Mobile Preview
+
 ![Mobile preview for the Product preview card component coding challenge](<./screenshot/mobile-design%20(375x667).png>)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here](https://github.com/saglamorhan/Product-preview-card-component.git)
+- Live Site URL: [Add live site URL here](https://saglamorhan.github.io/Product-preview-card-component/)
 
 ### Built with
 
@@ -47,16 +44,16 @@ Users should be able to:
 
 ### What I learned
 
-### Continued development
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- Responsive Design
+- Using Media Queries
+- Work with images
 
 ### Useful resources
+
+- https://github.com/orgs/community/discussions/
 
 ## Author
 
 - Github - [Orhan SAĞLAM](https://github.com/saglamorhan)
 - Frontend Mentor - [@saglamorhan](https://www.frontendmentor.io/profile/saglamorhan)
 - Twitter - [@saglamorhan](https://www.twitter.com/saglamorhan)
-
-## Acknowledgments
