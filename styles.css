@@ -18,8 +18,7 @@ body {
   background-color: var(--cream);
 }
 .main {
-  width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -32,16 +31,19 @@ body {
   display: flex;
   border-radius: 0.6em;
 }
+.card-image {
+  width: 50%;
+}
 
 .card-container {
   margin: 2em;
 }
-.product-img {
+#product-img {
   border-radius: 0.6em 0 0 0.6em;
   height: 100%;
-  background: url("./images/image-product-desktop.jpg");
   object-fit: cover;
 }
+
 .product-type {
   font-family: "Montserrat", serif;
   color: var(--dark-grayish-blue);
@@ -89,6 +91,7 @@ button {
   color: var(--white);
   font-size: 1.1em;
   margin-top: 1.4em;
+  border: none;
   border-radius: 0.6em;
   display: flex;
   justify-content: center;
@@ -113,17 +116,22 @@ button:hover {
     background-color: var(--white);
     border-radius: 1em;
   }
+  .card-image {
+    height: 50%;
+    width: 100%;
+  }
+  #product-img {
+    border-radius: 1em 1em 0 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
   .card-container {
     padding: 1em;
     margin: 0;
   }
-  .product-img {
-    border-radius: 1em 1em 0 0;
-    height: 100%;
-    width: 100%;
-    content: url("images/image-product-mobile.jpg");
-    alt: "perfume bottle stands among leaves";
-  }
+
   .product-type {
     font-family: "Montserrat", serif;
     color: var(--dark-grayish-blue);
@@ -171,6 +179,7 @@ button:hover {
     font-size: 0.8em;
     font-weight: 600;
     margin-top: 1.5em;
+    border: none;
     border-radius: 0.5em;
     display: flex;
     justify-content: center;
