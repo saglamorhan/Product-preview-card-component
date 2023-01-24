@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/saglamorhan/Product-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://saglamorhan.github.io/Product-preview-card-component/)
+- Solution URL: [https://github.com/saglamorhan/Product-preview-card-component.git]
+- Live Site URL: [https://saglamorhan.github.io/Product-preview-card-component/]
 
 ### Built with
 
